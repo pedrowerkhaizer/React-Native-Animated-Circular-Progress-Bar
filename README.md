@@ -6,14 +6,14 @@ Create Animated Circular Progress Bar in React Native using [Reanimated](https:/
 
 Demo on iOS (Left) and Android (Right)
 
-![Demo]()
+![Demo](https://github.com/pedrowerkhaizer/React-Native-Animated-Circular-Progress-Bar/blob/master/Demo.gif)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-git clone https://github.com/Rakha112/react-native-animation.git
+git clone https://github.com/pedrowerkhaizer/React-Native-Animated-Circular-Progress-Bar.git
 ```
 
 Go to the project directory
